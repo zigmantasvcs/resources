@@ -1,0 +1,17 @@
+div.box{
+  width: 100%;
+  min-height: 200px;
+  box-shadow: 0px 0px 5px black;
+  margin: 10px;
+  padding: 10px;
+  text-align: justify;
+}
+nav, .page-footer{
+  background-color: #179900;
+  background-image: url("../3.jpg");
+}
+
+body{
+  background-color: black;
+  color: white;
+}
